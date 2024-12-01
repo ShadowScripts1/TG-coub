@@ -1,6 +1,3 @@
-Here’s the cleaned-up version of your README:
-
----
 
 # TG-coub  
 AUTO CLAIM FOR COUB / @coub  
